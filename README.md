@@ -14,4 +14,4 @@ O post atual sempre estará em destaque e no root repository. Ao sair um novo, s
 
 ## [Patrocine a Tradução e muito mais conteúdo Dev em Rust para brasileiros](patreon.com/luisvonmuller)
 
-👉 Você pode colaborar com o projeto através de PR's ou sendo diretamente patrocinador dele através de meu Patreon:  
+👉 Você pode colaborar com o projeto através de PR's e dicas. 🥰
