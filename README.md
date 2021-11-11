@@ -5,7 +5,10 @@ O conteúdo original vem de: [This Week in Rust](https://this-week-in-rust.org/)
 
 O post atual sempre estará em destaque e no root repository. Ao sair um novo, será movido para a pasta do ano de publicação / Mês pertinente. 
 
+🗓 Geralmente a tradução será disponibilizada de 1 a 2 dias úteis depois que for lançada oficialmente pela @rustfundation. ✌️
+
 🔥 Foi iniciado no dia: 11 de novembro de 2021, posts antigos não serão traduzidos (O primeiro é: #416 de 10 de novembro de 2020).
 👉 Futuramente será implementado uma newsletter para entregar desse conteúdo em seu e-mail!
 
-😥 Infelizmente os artigos são de terceiros e em sua maioria são de propriedade autoral e eles eu não poderei traduzir. 
+😥 Infelizmente algums dos artigos são de terceiros e em sua maioria são de propriedade autoral (deles) e eles eu não poderei traduzir e também não compoem o escopo proposto.
+
