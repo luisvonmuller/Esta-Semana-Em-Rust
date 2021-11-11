@@ -13,6 +13,6 @@ O post atual sempre estará em destaque e no root repository. Ao sair um novo, s
 😥 Infelizmente algums dos artigos são de terceiros e em sua maioria são de propriedade autoral (deles) e eles eu não poderei traduzir e também não compoem o escopo proposto.
 
 ## Patrocine a Tradução e muito mais conteúdo Dev em Rust para brasileiros
-[🎩 Seja um patrocionador (Patreon)](patreon.com/luisvonmuller) - (O acesso é público e sempre será. Patrocionadores serão agradecidos pelo seu patrocínio.)
+[🎩 Seja um patrocionador (Patreon)](https://patreon.com/luisvonmuller) - (O acesso é público e sempre será. Patrocionadores serão agradecidos pelo seu patrocínio.)
 
 👉 Você pode colaborar com o projeto através de PR's e dicas. 🥰
