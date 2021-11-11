@@ -1,7 +1,7 @@
 # Esta-Semana-Em-Rust 👉 #416 :
 O conteúdo original vem de: [This Week in Rust](https://this-week-in-rust.org/)
 
-## Neste repositório você encontrará a tradução para PT-BR do "This Week in Rust" para tornar mais aos Brasileiros e incentivar o contínuo crescimento da adoção da Linguagem por Brasileiros 🦀
+## Neste repositório você encontrará a tradução para PT-BR do "This Week in Rust" para tornar mais acessível aos Brasileiros e incentivar o contínuo crescimento da comunidadade brasileira tal como a sua adoção da Linguagem por Brasileiros 🦀
 
 O post atual sempre estará em destaque e no root repository. Ao sair um novo, será movido para a pasta do ano de publicação / Mês pertinente. 
 
