@@ -1,4 +1,4 @@
-# Esta-Semana-Em-Rust 👉 #416 :
+# Esta-Semana-Em-Rust 👉 [#416](https://github.com/luisvonmuller/Esta-Semana-Em-Rust/blob/main/%23416.md) :
 O conteúdo original vem de: [This Week in Rust](https://this-week-in-rust.org/)
 
 ## Neste repositório você encontrará a tradução para PT-BR do "This Week in Rust" para tornar mais acessível aos Brasileiros e incentivar o contínuo crescimento da comunidadade brasileira tal como a sua adoção da Linguagem por Brasileiros 🦀
