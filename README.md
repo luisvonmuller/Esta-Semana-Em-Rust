@@ -5,7 +5,7 @@ O conteúdo original vem de: [This Week in Rust](https://this-week-in-rust.org/)
 
 O post (da lista de e-mails) da semana está sempre linkado no título. 
 
-🗓 Geralmente a tradução será disponibilizada de 1 a 2 dias úteis depois que for lançada oficialmente pela @rustfundation. ✌️
+🗓 Geralmente a tradução será disponibilizada de 1 a 2 dias úteis depois que for lançada oficialmente pela Rust Foundation. ✌️
 
 🔥 Foi iniciado no dia: 11 de novembro de 2021, posts antigos não serão traduzidos (O primeiro é: #416 de 10 de novembro de 2020).
 
