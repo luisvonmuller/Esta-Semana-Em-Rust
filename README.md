@@ -1,9 +1,9 @@
 # Esta-Semana-Em-Rust 👉 [#417](https://github.com/luisvonmuller/Esta-Semana-Em-Rust/blob/main/%23417.md) :
 O conteúdo original vem de: [This Week in Rust](https://this-week-in-rust.org/)
 
-## Neste repositório você encontrará a tradução para PT-BR do "This Week in Rust" para tornar mais acessível aos Brasileiros e incentivar o contínuo crescimento da comunidadade brasileira tal como a sua adoção da Linguagem por Brasileiros 🦀
+### Neste repositório você encontrará a tradução para PT-BR do "This Week in Rust" para tornar mais acessível aos Brasileiros e incentivar o contínuo crescimento da comunidadade brasileira tal como a sua adoção da Linguagem por Brasileiros 🦀
 
-O post atual sempre estará em destaque e no root repository. Ao sair um novo, será movido para a pasta do ano de publicação / Mês pertinente. 
+O post (da lista de e-mails) da semana está sempre linkado no título. 
 
 🗓 Geralmente a tradução será disponibilizada de 1 a 2 dias úteis depois que for lançada oficialmente pela @rustfundation. ✌️
 
