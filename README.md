@@ -13,4 +13,4 @@ O post (da lista de e-mails) da semana está sempre linkado no título.
 
 😥 Infelizmente algums dos artigos são de terceiros e em sua maioria são de propriedade autoral (deles) e eles eu não poderei traduzir e também não compoem o escopo proposto.
 
-👉 Você pode colaborar com o projeto através de PR's e dicas. 🥰
+👉 Você pode colaborar com o projeto através de PR's e dicas. (ou pelo patreon, eu também preciso comer.) 🥰
